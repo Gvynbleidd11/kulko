@@ -1,0 +1,74 @@
+body
+{
+  margin:0;
+  text-align:center;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.cv
+{
+  background-color: #E4F9F5;
+  height:auto;
+  position: relative;
+  padding-top:270px;
+  height:680px;
+}
+
+.pro
+{
+  text-decoration: underline;
+}
+
+h1
+{
+  font-size:60px;
+  width:20%;
+  margin:0 auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+.mountain
+{
+  position: relative;
+  top:180px;
+}
+
+.top-cloud
+{
+  position:absolute;
+  bottom:800px;
+  left:1100px;
+}
+
+.bottom-cloud
+{
+  position: absolute;
+  bottom:340px;
+  right:1100px;
+}
+
+p
+{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.avatar
+{
+  width:290px;
+  height:298px;
+  padding:10px;
+}
+
+.skill-1
+{
+  width:290px;
+  height:298px;
+  padding:10px;
+}
+
+.skill-2
+{
+  width:290px;
+  height:298px;
+  padding:10px;
+}
